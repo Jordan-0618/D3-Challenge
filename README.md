@@ -54,14 +54,5 @@ You're going to include more demographics and more risk factors. Place additiona
 
 While the ticks on the axes allow us to infer approximate values for each circle, it's impossible to determine the true value without adding another layer of data. Enter tooltips: developers can implement these in their D3 graphics to reveal a specific element's data when the user hovers their cursor over the element. Add tooltips to your circles and display each tooltip with the data that the user has selected. Use the `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged)—we've already included this plugin in your assignment directory.
 
-- - -
-
-
-
-## Rubric
-
-[Unit 16 Rubric - D3 Homework - Data Journalism and D3](https://docs.google.com/document/d/10v1svLr0DM7jvJlBqUKaCbGWcv-xT5rK9AMafU6su14/edit?usp=sharing)
-
-- - -
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
